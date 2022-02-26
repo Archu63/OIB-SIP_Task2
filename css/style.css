@@ -1,0 +1,204 @@
+.bar{
+ background-color: ;
+ position: fixed;
+top:0;
+width:100%;
+left:0;
+font-size:20;
+}
+ a {
+ color: white;
+ padding: 14px 16px;
+ float: left;
+}
+a:hover{
+opacity:0.9;
+transform:transiateY(-2.5%);
+box-shadow:0 0 15px 0 white;
+}
+#port{
+ margin-right:700px;
+font-family:Lucida Calligraphy;
+color:orange;
+}
+#pic{
+width:50%;
+}
+img{
+display:block;
+border-radius:150px;
+}
+#head{
+text-align:left;
+width:60%;
+}
+#hire{
+width:18%;
+font-size:20;
+font-style:italic;
+color:black;
+font-family:Lucida Handwriting;
+cursor:pointer;
+background-color:yellow;
+height:8px;
+border-radius:50px;
+}
+#hello{
+font-size:45;
+font-style:italic;
+font-family:Lucida Fax;
+color:white;
+}
+#name{
+font-size:30;
+font-style:italic;
+font-family:Lucida Fax;
+color:white;
+}
+#cse{
+font-size:25;
+font-style:italic;
+font-family:Lucida Fax;
+color:white;
+}
+#home{
+margin-right:auto;
+margin-top:30px;
+margin-left:auto;
+margin-bottom:10px;
+width:80%;
+padding:100px;
+text-align:center;
+}
+#hire:hover{
+opacity:0.9;
+transform:transiateY(-2.5%);
+box-shadow:0 0 15px 0 white;
+}
+img:hover{
+opacity:0.9;
+transform:transiateY(-2.5%);
+box-shadow:0 0 15px 0 white;
+}
+#about
+{
+margin-right:auto;
+margin-top:10px;
+margin-left:auto;
+margin-bottom:30px;
+width:50%;
+padding:100px;
+text-align:left;
+background-color:;
+}
+#education
+{
+margin-right:auto;
+margin-top:8px;
+margin-left:auto;
+margin-bottom:30px;
+width:50%;
+padding:100px;
+text-align:left;
+}
+#skill
+{
+margin-right:auto;
+margin-top:10px;
+margin-left:auto;
+margin-bottom:30px;
+width:50%;
+padding:100px;
+text-align:left;
+}
+#contact
+{
+margin-right:auto;
+margin-top:0px;
+margin-left:auto;
+margin-bottom:100px;
+width:50%;
+text-align:center;
+}
+#am
+{
+text-align:center;
+color:white;
+font-size:35;
+font-family:Lucida Fax;
+}
+#edu
+{
+text-align:center;
+color:white;
+font-size:35;
+font-family:Lucida Fax;
+}
+#sk
+{
+text-align:center;
+color:white;
+font-size:35;
+font-family:Lucida Fax;
+}
+#cm
+{
+text-align:center;
+color:white;
+font-size:35;
+font-family:Lucida Fax;
+}
+p{
+font-size:18;
+color:white;
+font-family:Lucida Calligraphy;
+}
+h4{
+font-size:25;
+color:red;
+font-family:Lucida Calligraphy;
+}
+strong{
+color:red;
+}
+#from{
+font-size:20;
+color:white;
+font-family:Lucida fax;
+margin-top:50px;
+}
+input
+{
+height:30px;
+width:30%;
+color:brown;
+margin-bottom:20px;
+border-radius:50px;
+}
+input:hover{
+opacity:0.9;
+transform:transiateY(-2.5%);
+box-shadow:0 0 15px 0 blue;
+}
+button
+{
+width:20%;
+color:black;
+font-size:20;
+font-style:italic;
+font-family:Lucida Handwriting;
+cursor:pointer;
+background-color:red;
+border-radius:50px;
+}
+button:hover{
+opacity:0.9;
+transform:transiateY(-2.5%);
+box-shadow:0 0 15px 0 white;
+}
+ul
+{
+font-size:20;
+font-family:Lucida Calligraphy;
+color:white;
+}
